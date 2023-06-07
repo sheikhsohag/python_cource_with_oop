@@ -1,0 +1,2 @@
+print('alhamdullilah')
+print('dkfkjk')
